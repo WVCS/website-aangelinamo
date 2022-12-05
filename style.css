@@ -1,3 +1,23 @@
 body {
+  background-color: lavender;
+}
 
+hl {
+  color: white;
+  text-align: center;
+}
+
+img {
+  width: 120vh;
+  border: dashed orange 3px;
+}
+
+img:hover {
+  width: 130ox;
+  border: solid magenta 3 px;
+}
+
+h1{
+  font-family: Arial;
+}
 }
